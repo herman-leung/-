@@ -20,3 +20,5 @@ html = driver.page_source  #获取网页源代码
 [python＋selenium控制浏览器在后台运行](https://xw.qq.com/amphtml/20220313A04LWB00)
 
 [爬虫之selenium控制浏览器执行js代码](https://blog.csdn.net/weixin_44799217/article/details/112971735)
+
+[JS代码获取网页宽高](https://www.cnblogs.com/mengshenshenchu/p/6666300.html)
