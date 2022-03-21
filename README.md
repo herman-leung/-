@@ -17,3 +17,4 @@ driver.find_element_by_link_text('登录豆瓣').click()
 
 html = driver.page_source  #获取网页源代码
 ```
+[python＋selenium控制浏览器在后台运行](https://xw.qq.com/amphtml/20220313A04LWB00)
