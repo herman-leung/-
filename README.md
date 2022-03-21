@@ -2,7 +2,7 @@
 [白月黑羽](https://www.byhy.net/tut/auto/selenium/01/)
 
 selenium学习
-```pthon
+```python
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
@@ -10,4 +10,10 @@ from selenium.webdriver.chrome.service import Service
 webdriver.Chrome() #括号内是chromedriver的地址， 是selenium3.x老版本写法， 新版本参照白月黑羽教程
 
 
+```
+```python
+driver.find_element_by_link_text('登录豆瓣').click()
+
+
+html = driver.page_source  #获取网页源代码
 ```
